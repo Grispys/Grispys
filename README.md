@@ -1,2 +1,2 @@
-I'm a student at Keyin College working my way through their Software Development course!
+I'm a graduate of Keyin College's Software Development course!
 Big fan of Javascript, Java, Python, and GDScript.
